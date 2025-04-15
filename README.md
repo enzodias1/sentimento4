@@ -47,7 +47,7 @@ source venv/bin/activate
 ### 4. Instale as dependências
 
 ```bash
-pip install -r requirements.txt
+pip install django textblob
 ```
 
 ### 5. Execute o servidor
