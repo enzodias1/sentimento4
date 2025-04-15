@@ -28,7 +28,7 @@ Ele permite que usuários se cadastrem, façam login e submetam textos para aná
 cd caminho/para/pasta-extraída
 ```
 
-### 3. Crie e ative um ambiente virtual *(opcional, mas recomendado)*
+### 3. Crie e ative um ambiente virtual
 
 **Windows:**
 
